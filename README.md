@@ -1,6 +1,6 @@
 # Hi, I'm Geovane Gomes 👋
 
-Professional and dedicated student of **Cybersecurity** (5th Semester) based in Rio de Janeiro, Brazil. 
+A dedicated **Cybersecurity** professional based in Rio de Janeiro, Brazil.
 I am passionate about problem-solving, automation, and information security.
 
 ### 🛡️ Core Focus
